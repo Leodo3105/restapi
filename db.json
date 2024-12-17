@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Cách nấu phở bòa truyền thống",
+            "body": "Hướng dẫn chi tiết cách nấu phở bòa truyền thống"
+        },
+
+        {
+            "id": 2,
+            "title": "Cách làm đồ ăn vặt từ táo",
+            "body": "Hướng dẫn làm apple pie"
+        },
+
+        {
+            "id": 3,
+            "title": "Cách làm bánh với nồi cơm điện",
+            "body": "Hướng dẫn làm bánh bông lan"
+        }
+    ],
+    "users": [
+        {
+            "username:": "longdo",
+            "password": "fdgfksdgk",
+            "fullname": "Đỗ Thanh Long"
+        },
+
+        {
+            "username:": "giabao",
+            "password": "dsjdhkash",
+            "fullname": "Nguyễn Gia Bảo"
+        }
+    ]
+}
